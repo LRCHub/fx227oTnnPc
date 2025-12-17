@@ -1,0 +1,55 @@
+# AKMU – Love Lee
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.11] You know, 내 스타일이 아닌 음악을 들어도
+[00:13.82] You know, 좋아하지 않는 음식을 먹어도
+[00:18.93] 우산 없이 비가 와 홀딱 다 젖어도 좋아
+[00:25.19] I love it because I love you
+[00:39.19] 
+[00:28.18] Wow, 우리 관계, 디비디비딥
+[00:31.37] 매일 봐도 처음같이, 비기비기닝
+[00:33.85] 춤추고 싶어, yeah, 빌리, 빌리진
+[00:36.30] 우리 앞, 우리 옆, 시기시기 질투
+[00:45.80] 
+[00:39.03] 자유로운 날갯짓, 훨훨훨
+[00:41.44] 꽃송이가 나를 삼킬 걸
+[00:43.86] 알면서 난 뛰어들었어
+[00:46.29] Jump, ju-ju-jump, jump, jump
+[01:00.29] 
+[00:47.68] So lovely day, so lovely, errday with you so lovely
+[00:52.90] Du, du-ru-du, du-ru-du, du-du-ru-du
+[00:57.49] Spell L-O-V-E-L-E-E, 이름만 불러도, you can feel me
+[01:02.96] 눈빛만 봐도 알면서 my love
+[01:11.96] 
+[01:11.45] You know, 아끼는 옷에 coffee를 쏟아도
+[01:16.39] You know, 내가 준 목걸이를 잃어 버려도
+[01:21.30] 한 번 더 같은 것 사준 걸 다시 또 잃어도 좋아
+[01:27.43] I don't care, I just care about you
+[01:44.93] 
+[01:30.30] Oh, 여기 어때? (어때) how you like that? (Like that?)
+[01:33.66] 다 퍼 주고 될게 빈털터리
+[01:36.19] Jubilate 박수갈채
+[01:38.57] 안 반하고 누가 배겨 love sick (oh)
+[01:51.57] 
+[01:41.79] 비타민 U가 필요해
+[01:44.14] 만들어줘 샛노랗게 (노랗게)
+[01:46.50] 체크무늬 벌집 두 눈에
+[01:49.11] Honey, help, honey, help
+[02:01.11] 
+[01:50.19] So lovely day, so lovely, errday with you so lovely
+[01:55.21] Du, du-ru-du, du-ru-du, du-du-ru-du
+[01:59.82] Spell L-O-V-E-L-E-E, 이름만 불러도, you can feel me
+[02:05.20] 눈빛만 봐도 알면서 my love
+[02:14.20] 
+[02:19.43] 누구 사랑 먹고 그리 이쁘게 컸니?
+[02:24.15] Mommy or your daddy or them both
+[02:28.91] Lovey-dovey things 너의 곁에 everyday
+[02:33.52] Good morning, good night, 너의 이름 부를 때
+[02:51.52] 
+[02:38.13] So lovely day, so lovely, errday with you so lovely
+[02:43.25] Du, du-ru-du, du-ru-du, du-du-ru-du
+[02:47.82] Spell L-O-V-E-L-E-E, 이름만 불러도, you can feel me
+[02:53.26] 눈빛만 봐도 알면서 my love
+```
